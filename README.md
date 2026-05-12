@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data Analytics and some useful tools to create my professional portfolio.
-
-- - ⚡ Fun fact: It is supposed that I already know all this stuff but I'm trying to keep my knowledge fresh and learning new functionalities.
+- 🌱 I’m currently studying my Master of IT (Specialisation in Analytics).
+- 🔭 I’m currently working on some public dataset to create Machine Learning applications with supervised and unsupervised algorithms.
+- - ⚡ Fun fact: I am Student, Astrophotogapher (learning), Systems Engineer, and Business Administrator; besides that, I do tiling to pay my University.  
