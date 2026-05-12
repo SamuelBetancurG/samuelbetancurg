@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently studying my Master of IT (Specialisation in Analytics).
-- 🔭 I’m currently working on some public dataset to create Machine Learning applications with supervised and unsupervised algorithms.
-- - ⚡ Fun fact: I am Student, Astrophotogapher (learning), Systems Engineer, and Business Administrator; besides that, I do tiling to pay my University.  
+- 🔭 I’m currently working on some public dataset to create Machine Learning apps with supervised and unsupervised algorithms.
+- ⚡ Fun fact: I am Student, Astrophotogapher (learning), Systems Engineer, and Business Administrator; besides that, I do tiling to pay my University.  
